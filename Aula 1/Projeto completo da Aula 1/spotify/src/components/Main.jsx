@@ -12,7 +12,7 @@ const Main = () => {
             Mostrar tudo
           </a>
         </div>
-      </div>
+     
       <div className="item-list__container">
         <div className="single-item">
           <div className="single-item__div-image-button">
@@ -135,7 +135,7 @@ const Main = () => {
           </div>
         </div>
       </div>
-
+      </div>
       <div className="item-list">
         <div className="item-list__header">
           <h2>Músicas populares</h2>
@@ -143,7 +143,7 @@ const Main = () => {
             Mostrar tudo
           </a>
         </div>
-      </div>
+      
 
       <div className="item-list__container">
         <div className="single-item">
@@ -366,6 +366,7 @@ const Main = () => {
             </div>
           </div>
         </div>
+      </div>
       </div>
     </div>
   );
